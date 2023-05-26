@@ -23,7 +23,6 @@ CONCURRENT_REQUESTS = 2
 # Obey robots.txt rules
 # ROBOTSTXT_OBEY = False
 
-# SCRAPEOPS_API_KEY = '416bafa6-b705-43bc-810d-0b4a3ca08f14'
 
 # SCRAPEOPS_PROXY_ENABLED = True
 
